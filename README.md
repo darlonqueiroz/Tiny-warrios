@@ -34,13 +34,13 @@ Esse projeto foi realizado atraves de um curso que fiz na DIO, foi um projeto ex
 | Marketing  | [TCC ESTUDAR ESTRATÉGIAS DE MARKETING MUSICAL PARA ENTENDER O ENGAJAMENTO DE PÚBLICO E IMPULSIONAR A POPULARIDADE DE ARTISTAS DA MÚSICA MODERNA](https://drive.google.com/file/d/1CHjDgAjMuxrMu9f_dHNLbY0wETFfasxA/view?usp=drive_link)|
 | Políticas Públicas  | [TCC - ESTUDO DE MECANISMO DE POLÍTICAS ADMINISTRATIVAS NO DESENVOLVIMENTO E ESTÍMULO A PROJETOS CULTURAIS ARTÍSTICOS.](https://drive.google.com/file/d/1O7dRXKCvKa3BowKCxDbje8H8cgnfNTfZ/view?usp=drive_link)
 
-
-# Streams and Plataforms
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ParadgmaTV/videos)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Steam Badge](    https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/darlonqueiroz/)
-[![ Epic Badge](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
-[![Riot Badge](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
-[![Playstation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]()
+## Social Media 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/darlon.paradgma/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paradgma_rapstar/)
+[![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlon-queiroz-paradgma-12097713b/)
+[![Twicth Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/paradgma_rapstar)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](darlon5247)
+[![Tiktok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.twitch.tv/paradgma_rapstar)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darlonqueiroz)</br>
 
 
